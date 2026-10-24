@@ -1,0 +1,15 @@
+LLM Workshops with Dr. Bouy Rina
+Submission via GitHub
+
+GitHub repository:
+https://github.com/macra12/LLM-Workshop
+
+README:
+https://github.com/macra12/LLM-Workshop/blob/main/README.md
+
+Session 2 notebooks:
+1. Ollama Prompting
+https://github.com/macra12/LLM-Workshop/blob/main/notebooks/session-2/01_ollama_prompting.ipynb
+
+2. Khmer/Lao OCR Fine-tuning
+https://github.com/macra12/LLM-Workshop/blob/main/notebooks/session-2/02_khmer_lao_ocr_finetuning.ipynb
